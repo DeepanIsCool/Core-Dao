@@ -1,4 +1,4 @@
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/4b975e23-bac1-42df-80b1-26dcff080093" /># 🗳️ VoteDao - Decentralized Quadratic Voting System
+# VoteDao
 
 
 ## Smart Contract:
