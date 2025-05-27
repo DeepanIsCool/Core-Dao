@@ -1,5 +1,7 @@
 # VoteDao
 
+VoteDao is a smart contract that enables decentralized proposal creation and voting using a fair and innovative **quadratic voting mechanism**. Built on Solidity, it empowers users to express preferences more precisely than simple one-vote-per-person systems, all while staying fully on-chain and transparent.
+
 
 ## Smart Contract:
 
@@ -11,7 +13,6 @@ Transaction hash : 0x2801150f0b3c86b3d16f438646a5d500cb0905730fcf1489ba00307ac84
 
 
 
-VoteDao is a smart contract that enables decentralized proposal creation and voting using a fair and innovative **quadratic voting mechanism**. Built on Solidity, it empowers users to express preferences more precisely than simple one-vote-per-person systems, all while staying fully on-chain and transparent.
 
 ---
 
